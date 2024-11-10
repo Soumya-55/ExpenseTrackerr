@@ -1,6 +1,6 @@
-# Expensify - Expense and Budget Management System
+# Expense Tracker - Expense and Budget Management System
 
-*Expensify* is an application designed to help users manage their expenses and budgets efficiently. It allows users to input their daily expenses, categorize them, and track their spending against predefined budgets. Built with *Java, **MySQL, and **JDBC*, this project aims to provide an intuitive system for personal finance management.
+*Expense Tracker* is an application designed to help users manage their expenses and budgets efficiently. It allows users to input their daily expenses, categorize them, and track their spending against predefined budgets. Built with *Java, **MySQL, and **JDBC*, this project aims to provide an intuitive system for personal finance management.
 
 ## Features
 
