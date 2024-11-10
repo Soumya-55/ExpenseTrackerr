@@ -24,8 +24,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone this repository to your local machine:
 
-    bash
-    git clone 
+    
     
 
 2. Set up the database:
